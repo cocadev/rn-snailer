@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "30423072594",
+    "firebase_url": "https://snailer-16bbb.firebaseio.com",
+    "project_id": "snailer-16bbb",
+    "storage_bucket": "snailer-16bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30423072594:android:c6744443e03343ed09848b",
+        "android_client_info": {
+          "package_name": "com.snailer_consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30423072594-v6i0sjp94ejp0h1m8fintk42itfcaql1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snailer_consumer",
+            "certificate_hash": "58f7c300c60e4604e934b235234ea75714837b31"
+          }
+        },
+        {
+          "client_id": "30423072594-n090c72aj8fgsg0ghtiflqs4ojkrfddo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snailer_consumer",
+            "certificate_hash": "3627a78fb75f4d4b7939ab3ede1288748fd29d1d"
+          }
+        },
+        {
+          "client_id": "30423072594-7obbb4e9mqu2nrkrmntn3m2tin1h9oqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snailer_consumer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "30423072594-id3hnd3i01cbk3mk9poia8b1sa7prbbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYdP5-ngKXKbhioD3BG5hv-8Iw2lmkog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30423072594-id3hnd3i01cbk3mk9poia8b1sa7prbbr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30423072594-g7dq27boeg1mvtlp24faj8ahnj21124b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snailer-merchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30423072594:android:4473f77e21ad07ff09848b",
+        "android_client_info": {
+          "package_name": "com.snailer_merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30423072594-c3lgi0c17poo76egbvve2h07bvoa9cpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snailer_merchant",
+            "certificate_hash": "279392a4e6f0de654418dd806c53e0319bc859fa"
+          }
+        },
+        {
+          "client_id": "30423072594-tdsdbtggo9qj2c1ibeu6eqmo1ap7i1au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snailer_merchant",
+            "certificate_hash": "27a356eb8fa89aa3a927279e681157be35c960b2"
+          }
+        },
+        {
+          "client_id": "30423072594-n2pcekqlrdclukak7aul2lg850gtj5kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snailer_merchant",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "30423072594-jkhgdjutjpceds41n31iks205lrkunn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snailer_merchant",
+            "certificate_hash": "1cf985ccba7b191914852ca3d1583801a57cd541"
+          }
+        },
+        {
+          "client_id": "30423072594-id3hnd3i01cbk3mk9poia8b1sa7prbbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYdP5-ngKXKbhioD3BG5hv-8Iw2lmkog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30423072594-id3hnd3i01cbk3mk9poia8b1sa7prbbr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30423072594-g7dq27boeg1mvtlp24faj8ahnj21124b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snailer-merchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30423072594:android:957cbfd3bbe14dd209848b",
+        "android_client_info": {
+          "package_name": "com.snailer_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30423072594-e5ebgocg8682gh3j5un36n7n5oa7fqkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snailer_rider",
+            "certificate_hash": "011b108a6700afa5b98c957a9ebccd060510572b"
+          }
+        },
+        {
+          "client_id": "30423072594-tnufbatqf6hm832d3ia0d8qp21c6sq43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snailer_rider",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "30423072594-id3hnd3i01cbk3mk9poia8b1sa7prbbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYdP5-ngKXKbhioD3BG5hv-8Iw2lmkog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30423072594-id3hnd3i01cbk3mk9poia8b1sa7prbbr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30423072594-g7dq27boeg1mvtlp24faj8ahnj21124b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snailer-merchant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

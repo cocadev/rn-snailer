@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CLIENT_ID</key>
+		<string>30423072594-t27912el43osehhnn4p7j3p67d4vp6d9.apps.googleusercontent.com</string>
+		<key>REVERSED_CLIENT_ID</key>
+		<string>com.googleusercontent.apps.30423072594-t27912el43osehhnn4p7j3p67d4vp6d9</string>
+		<key>ANDROID_CLIENT_ID</key>
+		<string>30423072594-19o3vu3d5gcd0rf7d5u86a9a7il4p1kh.apps.googleusercontent.com</string>
+		<key>API_KEY</key>
+		<string>AIzaSyBk7Ct2L7yuvtSB9IHDRHknh-XtR8AjDgM</string>
+		<key>GCM_SENDER_ID</key>
+		<string>30423072594</string>
+		<key>PLIST_VERSION</key>
+		<string>1</string>
+		<key>BUNDLE_ID</key>
+		<string>org.snailer-consumer.fehux</string>
+		<key>PROJECT_ID</key>
+		<string>snailer-16bbb</string>
+		<key>STORAGE_BUCKET</key>
+		<string>snailer-16bbb.appspot.com</string>
+		<key>IS_ADS_ENABLED</key>
+		<false></false>
+		<key>IS_ANALYTICS_ENABLED</key>
+		<false></false>
+		<key>IS_APPINVITE_ENABLED</key>
+		<true></true>
+		<key>IS_GCM_ENABLED</key>
+		<true></true>
+		<key>IS_SIGNIN_ENABLED</key>
+		<true></true>
+		<key>GOOGLE_APP_ID</key>
+		<string>1:30423072594:ios:ce9908bc562c7d1b09848b</string>
+		<key>DATABASE_URL</key>
+		<string>https://snailer-16bbb.firebaseio.com</string>
+	</dict>
+</plist>

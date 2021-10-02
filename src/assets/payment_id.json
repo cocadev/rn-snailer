@@ -1,0 +1,20 @@
+{
+  "online": 2,
+  "credit_debit_card": 2,
+  "maybank2u": 6,
+  "alliance": 8,
+  "am_online": 10,
+  "rhb": 14,
+  "hong_leong": 15,
+  "cimb": 20,
+  "public_bank": 31,
+  "bank_rakyat": 102,
+  "affin": 103,
+  "bsn": 124,
+  "bank_islam": 134,
+  "uob": 152,
+  "bank_muamalat": 166,
+  "ocbc": 167,
+  "standard_chartered": 168,
+  "hsbc": 198
+}
