@@ -1,1 +1,1 @@
-# snailer
+# react-native app snailer
